@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
+baseurl: "/"
 url: "https://u0lee.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
